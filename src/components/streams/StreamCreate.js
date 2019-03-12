@@ -15,7 +15,6 @@ class StreamCreate extends React.Component {
   }
 
   renderInput = ({ input, label, meta }) => {
-    console.log(meta)
     return (
       <div className='field'>
         <label>{label}</label>
