@@ -1,3 +1,8 @@
+
+To be able to run this app, you need to have an REATful API for Streamer Information, another one is FLV media server. Both servers source code are not in this repo.
+
+___________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
